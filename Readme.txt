@@ -1,14 +1,12 @@
 ANLEITUNG
-1. Öffnen Sie den Ordner:
-_AP_W_26_Digital_Teil_1_B_Onepager_Eugene_Tidalgo_2049
 
-2. Öffnen Sie die Datei "index.html" in einem Webbrowser.
+1. Öffnen Sie die Datei "index.html" in einem Webbrowser.
    Empfohlene Browser:
    - Google Chrome
    - Mozilla Firefox
    - Microsoft Edge
 
-3. Nach dem Öffnen der Seite klicken Sie oben rechts auf den
+2. Nach dem Öffnen der Seite klicken Sie oben rechts auf den
    Login-Button, um die Mitglieder-Inhalte anzuzeigen.
    Anschließend öffnet sich ein Pop-up mit dem Login-Menü.
 
